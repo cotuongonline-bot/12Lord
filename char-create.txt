@@ -16,7 +16,7 @@ loi.cuongluc=10
 loi.noiluc=10
 loi.thanphap=10
 loi.theluc=10
-loi.hp=60
+loi.hp=40
 loi.mp=50
 loi.ken=0
 # --- He Thuy ---
@@ -24,6 +24,6 @@ thuy.cuongluc=10
 thuy.noiluc=10
 thuy.thanphap=10
 thuy.theluc=10
-thuy.hp=60
+thuy.hp=50
 thuy.mp=50
 thuy.ken=0
