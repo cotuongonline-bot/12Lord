@@ -1,0 +1,36 @@
+900000 - Linh Đan Dược
+900001 - Kim Đan Dược
+900002 - Búa sửa chữa
+900003 - Trứng gà
+900004 - Trứng Đà Điểu
+900005 - Trứng Chim Ưng
+900006 - Trứng thần long
+900007 - X2 kinh nghiệm
+900008 - Bùa May Mắn
+900009 - Đá Kim Thạch
+900010 - Đá Huyết Thạch
+900011 - Bùa Bảo Hộ
+900012 - Trứng Giun
+900013 - Lông Vũ
+900014 - Vuốt Quỷ
+900015 - Bí Ngô
+900016 - Bình linh lực
+900017 - Bình huyết linh
+900018 - Hỏa Linh Châu
+900019 - Lôi Linh Châu
+900020 - Thủy Linh Châu
+900021 - Băng Tâm
+900022 - Hộp Quà Noel
+900023 - Vớ Nguyện Ước
+900024 - Vớ Hy Vọng
+900025 - Bao lì xì
+900026 - Quả dừa
+900027 - Quả sung
+900028 - Quả xoài
+900029 - Đu đủ
+900030 - Mãng Cầu
+900031 - Mâm Ngũ Quả
+900032 - Bùa Thiên Cang
+900033 - Hộp Quà Noel Đặc Biệt
+900034 - Xương Rồng
+900035 - Tẩy Tủy Đan
