@@ -1,0 +1,29 @@
+# Data tao nhan vat moi - game Loan 12 Su Quan offline
+# Sua file nay tren web GitHub, khong can build lai jar.
+# Moi he co 7 chi so goc: cuongluc, noiluc, thanphap, theluc, hp, mp, ken.
+# Thieu key -> game dung gia tri mac dinh cu. Dong bat dau bang # la ghi chu.
+version=1
+# --- He Hoa ---
+hoa.cuongluc=10
+hoa.noiluc=10
+hoa.thanphap=10
+hoa.theluc=10
+hoa.hp=60
+hoa.mp=50
+hoa.ken=0
+# --- He Loi ---
+loi.cuongluc=10
+loi.noiluc=10
+loi.thanphap=10
+loi.theluc=10
+loi.hp=60
+loi.mp=50
+loi.ken=0
+# --- He Thuy ---
+thuy.cuongluc=10
+thuy.noiluc=10
+thuy.thanphap=10
+thuy.theluc=10
+thuy.hp=60
+thuy.mp=50
+thuy.ken=0
