@@ -4,7 +4,7 @@
 # Thieu key -> game bao loi, khong tao duoc nhan vat. Dong bat dau bang # la ghi chu.
 version=1
 # --- He Hoa ---
-hoa.cuongluc=12
+hoa.cuongluc=10
 hoa.noiluc=10
 hoa.thanphap=10
 hoa.theluc=10
