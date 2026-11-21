@@ -1,6 +1,1 @@
-# Giftcode - game Loan 12 Su Quan offline
-# 1 dong = 1 ma: ma=itemId:soLuong
-# Vi du: quatang123 tang 10 Xuong Rong (900034).
-# Sua file nay tren web GitHub de doi ma / vat pham / so luong.
-# Moi ma chi nhan duoc 1 lan theo nhan vat; doi ten ma thi nhan tiep duoc.
-quatang123=900034:10
+quatang1=900032:500
